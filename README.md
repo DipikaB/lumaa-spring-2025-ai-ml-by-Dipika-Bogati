@@ -10,4 +10,4 @@ Firstly, the dataset is downloaded from the above location (https://www.kaggle.c
 
 After that virtual environment is setup using the command: python -m venv venv. Then the virtual enviroment is activated and the dependencies are download from the requirements.txt file. Finally, main.py file is ran using: python main.py "I love thrilling action movies set in space, with a comedic twist.". It will display the output in the following way:
 
-![Output File](output/image.png)
+![Output File](./output/image.png)
